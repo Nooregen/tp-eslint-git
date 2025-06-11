@@ -1,4 +1,5 @@
-function myUtil ( ) {
-console.log("Oups")
+function myUtil() {
+  console.log('Oups');
 }
-myUtil()
+
+myUtil();
