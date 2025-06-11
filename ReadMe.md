@@ -11,3 +11,6 @@ Exercice 2 :
         test();
 Exercice 3 :
    3) pas d'erreur lors du commit
+
+
+   PS : j'ai essayé de faire ce que j'ai pu mais le eslint ne fonctionnait pas même en suivant toutes les étapes correctement... 
